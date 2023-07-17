@@ -1,7 +1,7 @@
 # photographer
 
 ## Dimo
-[live Demo] ( https://start-up0.github.io/photographer/)
+(https://start-up0.github.io/photographer/)
 
 ## Photo
 <div>
