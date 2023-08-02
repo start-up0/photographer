@@ -1,6 +1,6 @@
 # photographer
 
-## Dimo
+## Demo
 [liveDemo](https://start-up0.github.io/photographer/)
 
 ## Photo
